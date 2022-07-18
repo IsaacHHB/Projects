@@ -1,0 +1,7 @@
+**/logs
+LICENSE.txt
+README.txt
+.vscode
+ignore
+node_modules
+.env
